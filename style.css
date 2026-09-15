@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(118, 116, 116);
+}
+header {
+    background-color: rgb(134, 130, 130);
+    border-radius: 10px;
+    padding: 1px 10px 1px 10px;
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+    margin: 0 10px 0 10px;
+}
+
+#navbar {
+    display:none;
+}
+
+button {
+    background-color:rgba(134, 130, 130, 0);
+    border: none;
+}
+
+figure > img {
+    height: 400px;
+}
