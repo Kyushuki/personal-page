@@ -12,4 +12,4 @@ This repository contains code for personal page of me (Kyushuki, KyuTema, Temane
  
 You can see code and notify about issues, but not use code for commercial usage or training AI and same.
 ### Content
-You can see and reference content of the repository/page like text, hyperlinks or images (e.g. artworks), but not use them for commercial purposes.
+You can see and reference content of the repository/page like text, hyperlinks or images (e.g. artworks), but not use them for commercial purposes or training AI and same.
